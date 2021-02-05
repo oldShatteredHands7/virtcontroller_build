@@ -38,7 +38,7 @@ The size is currently not manually adjustable, but will adapt to the windows' si
 
 By default, all buttons will fire after waiting for the **trigger delay time**. In click mode, they will fire immediately at the click.
 
-![](C:\Users\Erik\Documents\GitHub\virtcontroller_build\img\button_overview.PNG)
+![](https://github.com/oldShatteredHands7/virtcontroller_build/blob/main/img/button_overview.PNG?raw=true)
 
 ### Movement buttons
 
@@ -87,13 +87,13 @@ Settings can be defined the via **UI** or **.config file**. Not all settings are
 
 Check https://github.com/michaelnoonan/inputsimulator/blob/master/WindowsInput/Native/VirtualKeyCode.cs to find out the correct value for the key you want to assign (e.g. 7 --> VK_7, W --> VK_W, etc...) **as action button mapping**
 
-![](C:\Users\Erik\Documents\GitHub\virtcontroller_build\img\settings_gui.png)
+![](https://github.com/oldShatteredHands7/virtcontroller_build/blob/main/img/settings_gui.png?raw=true)
 
 #### Settings .config
 
 Open VirtualController.exe.config in the text editor of your choice.
 
-![](C:\Users\Erik\Documents\GitHub\virtcontroller_build\img\settings_file_expl.PNG)
+![](https://github.com/oldShatteredHands7/virtcontroller_build/blob/main/img/settings_file_expl.PNG?raw=true)
 
 
 
@@ -105,8 +105,15 @@ For a list of available **Color** names, check https://docs.microsoft.com/en-us/
 
 All **delay** values are defined in ms.
 
-![](C:\Users\Erik\Documents\GitHub\virtcontroller_build\img\settings_file.PNG)
+![](https://github.com/oldShatteredHands7/virtcontroller_build/blob/main/img/settings_file.PNG?raw=true)
 
-### Action buttons
+### Attributions
 
-    Icon by <a href="https://freeicons.io/profile/714">Raj Dev</a> on <a href="https://freeicons.io">freeicons.io</a>
+**Window control icons**
+
+Icon by [Raj Dev](https://freeicons.io/profile/714) on [freeicons.io](https://freeicons.io)
+
+**Application icon**
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
