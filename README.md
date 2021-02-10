@@ -32,6 +32,7 @@ Both the Action and Movement Buttons can be modified in terms of
 - text color
 - key mapping
 - trigger delay time
+- position (action button only)
 - visibility
 
 The size is currently not manually adjustable, but will adapt to the windows' size automatically.
@@ -68,6 +69,7 @@ In click mode, they just press & release the mapped key per click.
 - text color (via .config)
 - key mapping (via .config or GUI)
 - trigger delay time (via .config)
+- horizontal position (via GUI)
 - visibility (via .config or GUI)
 
 ### Window control buttons
