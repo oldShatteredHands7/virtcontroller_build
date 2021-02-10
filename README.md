@@ -89,7 +89,7 @@ Settings can be defined the via **UI** or **.config file**. Not all settings are
 
 Check https://github.com/michaelnoonan/inputsimulator/blob/master/WindowsInput/Native/VirtualKeyCode.cs to find out the correct value for the key you want to assign (e.g. 7 --> VK_7, W --> VK_W, etc...) **as action button mapping**
 
-![](https://github.com/oldShatteredHands7/virtcontroller_build/blob/main/img/settings_gui.png?raw=true)
+![](https://github.com/oldShatteredHands7/virtcontroller_release/blob/main/img/settings_gui.png?raw=true)
 
 #### Settings .config
 
